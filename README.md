@@ -1,6 +1,6 @@
 # CSCI39548-Assignment-2
 CSCI39548 Practical Web Development Assignment 2
-
+Github Username: Jiahao0804
 
 javascript-methods-starter-template-code
 <br>
@@ -30,5 +30,6 @@ In this assignment, we use the prototype constructor to add new methods to the A
 8) After the process completed, your new "assignment-2" repository is created – as a completely independent codebase
 9) From this point on, you can clone your new repository, make changes, create feature branches, and create/merge pull requests
 
+<br>
 2. Use the information below to clone the starter codebase to your local machine
 After creating the starter codebase "assignment-2" repository on GitHub (see above), you can clone it to your local machine. The instructions on how to clone a GitHub repository are available at this link.
