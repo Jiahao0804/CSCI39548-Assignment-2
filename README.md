@@ -3,15 +3,20 @@ CSCI39548 Practical Web Development Assignment 2
 
 
 javascript-methods-starter-template-code
+<br>
 This repository is the starter code for Assignment 2 - JavaScript Methods.
+<br>
 
 JavaScript Prototype: Method
+<br>
 Every object in JavaScript has a built-in property called "prototype."
-
+<br>
 The prototype constructor is used to add new methods (functions) and properties to a JavaScript object.
-
-If a method is constructed, then it will be available for the object.
-If a property is constructed, then the object will be given the property and its value, as default.
+<br>
+1. If a method is constructed, then it will be available for the object.
+<br>
+2. If a property is constructed, then the object will be given the property and its value, as default.
+<br>
 In this assignment, we use the prototype constructor to add new methods to the Array() object.
 
 1. Use the following process to import the Assignment 2 starter code repository to your GitHub account as the starter codebase
